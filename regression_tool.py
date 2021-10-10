@@ -1,4 +1,4 @@
-
+#starts 
 with open(root_path+"dats1.txt", 'r') as f:
     myNames = [line.strip() for line in f]
 
